@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yassergomma204@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3jlD9OD](https://bit.ly/3jlD9OD)
+- 📄 Know about from my CV [https://bit.ly/3jlD9OD](https://bit.ly/3jlD9OD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
