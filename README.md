@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yassergomma204@gmail.com**
 
-- 📄 Know about from my CV [Link](https://bit.ly/3P2Ibhk)
+- 📄 Know about from my [CV](https://bit.ly/3P2Ibhk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
