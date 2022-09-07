@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassergomma&label=Profile%20views&color=0e75b6&style=flat" alt="yassergomma" /> </p>
 
-- 🔭 I’m currently working at [Orange Digital Center as an Mobile Developer Intern](https://github.com/YasserGomma/FoodHub)
-
+- 🔭 I’m currently looking for a software engineering position.
 - 🌱 I’m currently learning **Mobile Development ( Native with JAVA )**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasserGomma](https://github.com/YasserGomma)
