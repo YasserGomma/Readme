@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasserGomma](https://github.com/YasserGomma)
 
-- 💬 Ask me about **DS, Algorithms, C++ and Mobile Development**
+- 💬 Ask me about **DS, Algorithms, C++ and Software Engineering in general**
 
 - 📫 How to reach me **yassergomma204@gmail.com**
 
